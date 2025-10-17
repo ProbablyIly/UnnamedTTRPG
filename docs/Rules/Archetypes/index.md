@@ -1,13 +1,8 @@
 An archetype shapes your character’s playstyle and dictates your core abilities; these are limited per species.
-
-## Avian
-
-- Inventor - Innovate beyond the contemporarily possible, make your dreams a reality.
-    
-- Spectre - Become one with the wind, traverse the world undetected.
-    
-- Chevalier - Battle with great finesse, prevail gracefully.
-    
+# Avian
+## [[Inventor]Innovate beyond the contemporarily possible, make your dreams a reality.
+- [[Spectre]] - Become one with the wind, traverse the world undetected.
+- [[Chevalier]] - Battle with great finesse, prevail gracefully.
 
 ## Human
 
