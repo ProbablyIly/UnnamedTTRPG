@@ -1,6 +1,9 @@
 site_name: TTRPG ig lmao
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: black
 plugins:
   - search
   - roamlinks
