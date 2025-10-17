@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Combat.md",
+                "file": "docs/Rules/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "index"
             }
           }
         ]
@@ -212,6 +212,9 @@
   },
   "active": "51749300d5cfa60a",
   "lastOpenFiles": [
+    "File test.md",
+    "docs/Rules/Combat.md",
+    "docs/Rules/Disciplines.md",
     "site/search/search_index.json",
     "site/search",
     "site/Rules/Traits/index.html",
@@ -222,16 +225,12 @@
     "site/Rules/Disciplines",
     "site/Rules/Dice/index.html",
     "site/Rules/Combat/index.html",
-    "site/Rules/Archetypes/index.html",
     "docs/Rules/Archetypes.md",
-    "docs/Rules/Disciplines.md",
     "docs/Rules/Traits.md",
     "docs/Rules/Skills.md",
     "docs/Rules/Dice.md",
     "docs/Rules/index.md",
-    "docs/Rules/Combat.md",
     "site/assets/images/favicon.png",
-    "File test.md",
     "Estonia-TTRPG-Docs/File test.md",
     "Welcome.md"
   ]
