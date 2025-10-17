@@ -6,7 +6,8 @@ theme:
     primary: black
   features:
     - navigation.indexes
-    - toc.integrate 
+    - toc.follow
+    #- navigation.path
 plugins:
   - search
   - roamlinks
