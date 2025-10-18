@@ -1,6 +1,7 @@
 site_name: TTRPG ig lmao
 theme:
   name: material
+  custom_dir: overrides
   palette:
     scheme: slate
     primary: black
