@@ -1,3 +1,6 @@
+---
+comments: true
+---
 An archetype shapes your character’s playstyle and dictates your core abilities; these are limited per species.
 # Avian
 ## [[Inventor]]

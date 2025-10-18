@@ -1,3 +1,6 @@
+---
+comments: true
+---
 When rolling dice, grab an amount of d6s (six sided dice) indicated by your character sheet/GM and roll them.
 
 Your roll determines two things, the degree of success, your control over it.

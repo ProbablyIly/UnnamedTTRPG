@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Archetypes/index.md",
+                "file": "docs/Rules/Dice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Dice"
             }
           }
         ],
@@ -241,6 +241,8 @@
   },
   "active": "ce356b6d9979bdb1",
   "lastOpenFiles": [
+    "docs/Rules/Archetypes/Inventor.md",
+    "docs/Rules/Archetypes/index.md",
     "overrides/partials/comments.html",
     "overrides/partials/New Text Document.txt",
     "overrides/partials",
@@ -253,15 +255,12 @@
     "site/search",
     "site/Rules/Archetypes/Spectre/index.html",
     "site/Rules/Archetypes/Inventor/index.html",
-    "site/Rules/Archetypes/Chevalier/index.html",
     "docs/Rules/Traits.md",
     "docs/Rules/index.md",
     "docs/Rules/Disciplines.md",
     "docs/Rules/Dice.md",
     "docs/Rules/Combat.md",
-    "docs/Rules/Archetypes/index.md",
     "docs/Rules/Archetypes/Spectre.md",
-    "docs/Rules/Archetypes/Inventor.md",
     "docs/index.md",
     "File test.md",
     "site/assets/images/favicon.png",
