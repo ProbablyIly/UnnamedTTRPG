@@ -8,3 +8,5 @@ This TTRPG is built to specifically accommodate our own setting while addressing
 
 But most importantly of all, play this game in your own way, these rules are a suggestions, they are a base to build upon, rules are meant to be broken, and if you think something may be cooler differently, do it!
 
+As
+
