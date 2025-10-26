@@ -1,1 +1,1 @@
-This is the index woah!!
+This article will be a very brief explanation on how the game is played, with each of its respective child articles being a granu
