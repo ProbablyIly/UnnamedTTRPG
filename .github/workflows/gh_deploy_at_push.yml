@@ -2,8 +2,11 @@ name: Deploy MkDocs site
 
 on:
   push:
-    branches:
-      - master   # or 'main', depending on your repo
+    branches: [ master ]
+    paths:
+      - 'docs/**'
+      - 'mkdocs.yml'
+
 
 jobs:
   build-deploy:
