@@ -17,11 +17,15 @@ Traits are the foundation of your character, they reflect your physical and ment
 
 The higher a trait, the better you are at it, the minimum a trait can go is 2.
 ## Choosing Traits
-Each of the 5 traits starts at 2, and you can choose to invest points in it, you start with 12 points, and costs are as follows:
+Each of the 5 traits starts at 2, and you can choose to invest points in it, you start with 12 points and you can choose one modifier per trait:
 
-|     |     |
-| --- | --- |
-|     |     |
+| Cost     | Bonus |
+| -------- | ----- |
+| 1 point  | +1    |
+| 2 points | +2    |
+| 4 points | +3    |
+| 6 points | +4    |
+| 8 points | +5    |
 
 
 # [[Dice]]
