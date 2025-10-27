@@ -6,13 +6,19 @@ This TTRPG is built to specifically accommodate our own setting while addressing
  
 But most importantly of all, play this game in your own way, these rules are a suggestions, they are a foundation to build upon, rules are meant to be broken, and if you think something may be cooler differently, do it your way!
 # [[Traits]]
+## What are traits?
 Traits are the foundation of your character, they reflect your physical and mental capabilities. The traits are:
 
 **Physique** - Your stature, your strength.
 **Instinct** - Your reflexes, your senses.
 **Resilience** - Your endurance, your fortitude.
-**Ingenuity** - Your inventiveness, 
-**Presence** - 
+**Ingenuity** - Your creativity, your inventiveness. 
+**Presence** - Your charisma, your social wit.
+
+The higher a trait, the better you are at it, the minimum a trait can go is 2.
+## Choosing Traits
+
+
 # [[Dice]]
 Dice rolls are a way to resolve uncertainties and conflict, whenever an action that requires more than a little effort, the GM may call for a dice roll, at which point you roll an amount of dice, dictated by your character sheet (will be expanded upon shortly) to determine the degree of success.
 
