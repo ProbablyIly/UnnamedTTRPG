@@ -27,6 +27,14 @@ Each of the 5 traits starts at 2, and you can choose to invest points in it, you
 | 6 points | +4    |
 | 8 points | +5    |
 
+| Cost     | Bonus |
+| -------- | ----- |
+| 0 points | 2     |
+| 1 point  | 3     |
+| 2 points | 4     |
+| 4 points | 5     |
+| 6 points | 6     |
+| 8 points | 7     |
 
 # [[Dice]]
 Dice rolls are a way to resolve uncertainties and conflict, whenever an action that requires more than a little effort, the GM may call for a dice roll, at which point you roll an amount of dice, dictated by your character sheet (will be expanded upon shortly) to determine the degree of success.
