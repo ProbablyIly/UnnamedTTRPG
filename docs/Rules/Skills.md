@@ -17,3 +17,5 @@ Full House
 Sequential Skills
 
 Straight: While rolling a straight means failure (unless combined with a pair or similar), it activates a sequential ability, which are usually very powerful.
+
+This is a test, if this appears, it has succeeded

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/index.md",
+                "file": "docs/Rules/Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Skills"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "ca027a95c6a3e14d",
   "lastOpenFiles": [
-    "docs/Rules/Traits.md",
     "docs/Rules/index.md",
+    "docs/Rules/Traits.md",
     "docs/index.md",
     "docs/Rules/Archetypes/index.md",
     "docs/Rules/Dice.md",
