@@ -17,24 +17,16 @@ Traits are the foundation of your character, they reflect your physical and ment
 
 The higher a trait, the better you are at it, the minimum a trait can go is 2.
 ## Choosing Traits
-Each of the 5 traits starts at 2, and you can choose to invest points in it, you start with 12 points and you can choose one modifier per trait:
+To determine your trait, you start with 12 points and you can choose what value to buy per trait according to the following table:
 
-| Cost     | Bonus |
-| -------- | ----- |
-| 1 point  | +1    |
-| 2 points | +2    |
-| 4 points | +3    |
-| 6 points | +4    |
-| 8 points | +5    |
-
-| Cost     | Bonus |
-| -------- | ----- |
-| 0 points | 2     |
-| 1 point  | 3     |
-| 2 points | 4     |
-| 4 points | 5     |
-| 6 points | 6     |
-| 8 points | 7     |
+| Point Cost | Trait |
+| ---------- | ----- |
+| 0 points   | 2     |
+| 1 point    | 3     |
+| 2 points   | 4     |
+| 4 points   | 5     |
+| 6 points   | 6     |
+| 8 points   | 7     |
 
 # [[Dice]]
 Dice rolls are a way to resolve uncertainties and conflict, whenever an action that requires more than a little effort, the GM may call for a dice roll, at which point you roll an amount of dice, dictated by your character sheet (will be expanded upon shortly) to determine the degree of success.
