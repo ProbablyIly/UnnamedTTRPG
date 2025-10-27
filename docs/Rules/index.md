@@ -9,6 +9,20 @@ This TTRPG is built to specifically accommodate our own setting while addressing
 But most importantly of all, play this game in your own way, these rules are a suggestions, they are a foundation to build upon, rules are meant to be broken, and if you think something may be cooler differently, do it your way!
 
 # [[Dice]]
-Dice rolls are a way to resolve uncertainties and conflict, whenever an action that requires more than a little effort, the GM may
+Dice rolls are a way to resolve uncertainties and conflict, whenever an action that requires more than a little effort, the GM may call for a dice roll, at which point you roll an amount of dice, dictated by your character sheet (will be expanded upon shortly) to determine the degree of success.
+
+Rolling involves a pool of D6s (sixth sided dice) and the success is determined by the number of matching numbers, the following table illustrates possible combinations:
+
+| Combination         | Degree of Success                 | Example           |
+| ------------------- | --------------------------------- | ----------------- |
+| No matches          | Failure                           | 1, 5, 3           |
+| Two matching dice   | Partial success                   | 2, 2, 5           |
+| Three matching dice | Minor success                     | 5, 5, 5.          |
+| Four matching dice  | Major success                     | 6, 6, 6, 6        |
+| Five matching dice  | Critical success                  | 3, 3, 3, 3, 3     |
+| Two Pair            | Two Partial Successes             | 1, 1, 4, 4        |
+| Full House          | One Minor and one Partial Success | 2, 2, 2, 3, 3     |
+| Straight            | Failure                           | 1, 2, 3 (or more) |
+
 
 
