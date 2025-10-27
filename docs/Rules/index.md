@@ -5,7 +5,7 @@ A TTRPG, also known as a tabletop roleplaying game is a social and collaborative
 
 ## Why is this TTRPG different?
 This TTRPG is built to specifically accommodate our own setting while addressing many issues and nitpicks we have with TTRPGs both as players and GMs. Our primary innovation is the dice system, which you will read up on quickly.
-
+ 
 But most importantly of all, play this game in your own way, these rules are a suggestions, they are a base to build upon, rules are meant to be broken, and if you think something may be cooler differently, do it!
 
 
