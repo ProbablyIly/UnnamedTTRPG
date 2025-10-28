@@ -34,8 +34,7 @@ Disciplines are certain areas of expertise which your character excels at, they 
 ## [[Dice]]
 ### What are dice rolls?
 Dice rolls are a way to resolve uncertainties and conflict, whenever an action that requires more than a little effort, the GM may call for a dice roll, at which point you roll an amount of dice, dictated by your character sheet to determine the degree of success.
-
-#
+### Resolving a roll
 Rolling involves a pool of D6s (sixth sided dice) and the success is determined by the number of matching numbers, the following table illustrates possible combinations:
 
 | Combination         | Degree of Success                 | Example           |
@@ -48,5 +47,10 @@ Rolling involves a pool of D6s (sixth sided dice) and the success is determined 
 | Two Pair            | Two Partial Successes             | 1, 1, 4, 4        |
 | Full House          | One Minor and one Partial Success | 2, 2, 2, 3, 3     |
 | Straight            | Failure                           | 1, 2, 3 (or more) |
+### How do I determine my roll?
+Each dice roll is associated with a specific Trait and Discipline, for example: Presence (Trait) and Grit (Discipline), you gather a number of dice equal to your Presence (Trait) and roll them. The value of your Grit (Discipline) determines how many times you can reroll your dice.
+
+### How do I know what Trait and Discipline to use?
+When asked to roll by your GM, you will generally be prompted with the Trait and Discipline, but, these are negotiable! If you think your character could realistically accomplish the action using a different Trait and Discipline, provided you explain your reasoning to your GM and they agree, you may roll with those values instead.
 ## [[Skills]]
 Skills are useful and powerful abilities which different characters can posses
