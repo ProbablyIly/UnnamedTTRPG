@@ -44,4 +44,7 @@ Rolling involves a pool of D6s (sixth sided dice) and the success is determined 
 | Two Pair            | Two Partial Successes             | 1, 1, 4, 4        |
 | Full House          | One Minor and one Partial Success | 2, 2, 2, 3, 3     |
 | Straight            | Failure                           | 1, 2, 3 (or more) |
-
+## [[Disciplines]]
+Disciplines are certain areas of exp
+## [[Skills]]
+Skills are useful and powerful abilities which different characters can posses
