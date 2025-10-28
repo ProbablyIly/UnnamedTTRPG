@@ -1,5 +1,4 @@
 This article will be a very brief explanation on how the game is played, with each of its respective child articles being a granular explanation of the respective segment.
-
 ## What is a TTRPG?
 A TTRPG, also known as a tabletop roleplaying game is a social and collaborative storytelling game, where one person, known as the Game Master (GM) leads a story, with a group of players, acting as the main cast of the story.
 ### Why is this TTRPG different?
@@ -28,10 +27,15 @@ To determine your trait, you start with 12 points and you can choose what value 
 | 4 points   | 5     |
 | 6 points   | 6     |
 | 8 points   | 7     |
-
+### What are traits used for?
+Traits are used to decide how many dice you roll, an amount of sixth sided dice equal to the value of your trait. How rolls are constructed and resolved will be explained below.
+## [[Disciplines]]
+Disciplines are certain areas of expertise which your character excels at, they are represented numerically from 0 to 3. Whenever you make a roll that uses a particular discipline, it grants you a number of rerolls equal to your rank in it.
 ## [[Dice]]
-Dice rolls are a way to resolve uncertainties and conflict, whenever an action that requires more than a little effort, the GM may call for a dice roll, at which point you roll an amount of dice, dictated by your character sheet (will be expanded upon shortly) to determine the degree of success.
+### What are dice rolls?
+Dice rolls are a way to resolve uncertainties and conflict, whenever an action that requires more than a little effort, the GM may call for a dice roll, at which point you roll an amount of dice, dictated by your character sheet to determine the degree of success.
 
+#
 Rolling involves a pool of D6s (sixth sided dice) and the success is determined by the number of matching numbers, the following table illustrates possible combinations:
 
 | Combination         | Degree of Success                 | Example           |
@@ -44,7 +48,5 @@ Rolling involves a pool of D6s (sixth sided dice) and the success is determined 
 | Two Pair            | Two Partial Successes             | 1, 1, 4, 4        |
 | Full House          | One Minor and one Partial Success | 2, 2, 2, 3, 3     |
 | Straight            | Failure                           | 1, 2, 3 (or more) |
-## [[Disciplines]]
-Disciplines are certain areas of exp
 ## [[Skills]]
 Skills are useful and powerful abilities which different characters can posses
