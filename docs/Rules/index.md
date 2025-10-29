@@ -92,4 +92,13 @@ At any roll, you may use up a point of Panache to reroll your dice or before rol
 
 Panache alternatively may be used according to certain Skills, and to **Interject** during combat. The former is elaborated per skill. while the latter will be in the Combat section below. 
 ## Combat
-At the start of combat, a starting player must be established, the GM first determines if the players or enemies start, if the players start. the player with the highest Instinct begins. 
+### Establishing Turn Order
+At the start of combat, a starting player must be established, the GM first determines if the players or enemies start, if the players start. the player with the highest Instinct begins.
+
+The turn order is dynamic, and so it changes based on the players and rolls. Each player has a single action on their turn, and its success determines who goes next. If the roll has failed, the turn moves to the enemy, if the roll has succeeded, the player chooses who to pass to next.
+
+This system encourages players to work with each other by complementing each other's actions. If the player who is following up, is able to narratively incorporate their action to that taken by the previous player's, they may add an additional dice to their roll.
+
+This is repeated un
+### Interjecting
+At any point during combat, you may inte
