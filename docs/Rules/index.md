@@ -91,7 +91,7 @@ You also gain Panache when the number of matches rolled equals to the value roll
 At any roll, you may use up a point of Panache to reroll your dice or before rolling to add an additional dice!
 
 Panache alternatively may be used according to certain Skills, and to **Interject** during combat. The former is elaborated per skill. while the latter will be in the Combat section below. 
-## Combat
+## [[Combat]]
 ### Establishing Turn Order
 At the start of combat, a starting player must be established, the GM first determines if the players or enemies start, if the players start. the player with the highest Instinct begins.
 
@@ -99,6 +99,10 @@ The turn order is dynamic, and so it changes based on the players and rolls. Eac
 
 This system encourages players to work with each other by complementing each other's actions. If the player who is following up, is able to narratively incorporate their action to that taken by the previous player's, they may add an additional dice to their roll.
 
-This is repeated un
+You cannot pass the turn to somebody who has already acted this round, and this process is repeated until everybody has acted.
 ### Interjecting
-At any point during combat, you may inte
+At any point during combat, you may interject, dramatically intervening in the current scene, and establishing your presence with an action. To do this, you must spend 2 points of Panache. This can be done even if you have already acted this round, and if you have not, you can still take your turn normally afterwards. The moment your Interjection ends, the turn order reverts to where it was prior to your interjection.
+### Actions in Combat
+On your turn you can do the following:
+- Move - Move up to your specified speed, 1 metre being equal to 1 square on the grid.
+- Take an action - An action is any one event that is considered significant or major, normally one which would require rolling. If it is an attack, see the section below, if it is not, it is resolved similarly to any other roll  
