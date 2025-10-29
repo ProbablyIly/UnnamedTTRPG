@@ -1,4 +1,5 @@
 site_name: TTRPG ig lmao
+site_url: https://probablyily.github.io/UnnamedTTRPG/
 theme:
   name: material
   custom_dir: overrides
