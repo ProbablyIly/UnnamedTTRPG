@@ -82,6 +82,10 @@ Archetypes are limited per the species you choose to play, and there are 3 per s
 - Splicer - Push your body to its genetic limits, suffer the consequences.
 - Warlord - Lead your comrades into battle, boost morale.
 ## Panache
-Panache is gained whenever you accomplish something unique
+Panache is rewarded by the GM whenever you accomplish the extraordinarily cool or act in a way that particularly makes the game more fun and exciting for everyone.
+
+Panache is stored communally (represented by tokens) and they can be spent to accomplish moves with extra flair and style. Using Panache should be generally agreed upon by your other party members.
+
+At any roll, you may use up a point of Panache to reroll!
 ## Combat
 At the start of combat, initiative must be 
