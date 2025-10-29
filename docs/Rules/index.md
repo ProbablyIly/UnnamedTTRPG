@@ -52,4 +52,4 @@ Each dice roll is associated with a specific Trait and Discipline, for example: 
 ### How do I know what Trait and Discipline to use?
 When asked to roll by your GM, you will generally be prompted with the Trait and Discipline, but, these are negotiable! If you think your character could realistically accomplish the action using a different Trait and Discipline, provided you explain your reasoning to your GM and they agree, you may roll with those values instead.
 ## [[Skills]]
-Skills are useful and powerful abilities which represent your prowess and skillset. There are two types of skills Dice Skills and  Skills. Each character 
+Skills are useful and powerful abilities which represent your prowess and skillset. There are two types of skills Dice Skills and Skills. Each character 
