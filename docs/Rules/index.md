@@ -27,6 +27,7 @@ To determine your trait, you start with 12 points and you can choose what value 
 | 4 points   | 5     |
 | 6 points   | 6     |
 | 8 points   | 7     |
+
 ### What are traits used for?
 Traits are used to decide how many dice you roll, an amount of sixth sided dice equal to the value of your trait. How rolls are constructed and resolved will be explained below.
 ## [[Disciplines]]
@@ -47,6 +48,7 @@ Rolling involves a pool of D6s (sixth sided dice) and the success is determined 
 | Two Pair            | Two Partial Successes             | 1, 1, 4, 4        |
 | Full House          | One Minor and one Partial Success | 2, 2, 2, 3, 3     |
 | Straight            | Failure                           | 1, 2, 3 (or more) |
+
 ### How do I determine my roll?
 Each dice roll is associated with a specific Trait and Discipline, for example: Presence (Trait) and Grit (Discipline), you gather a number of dice equal to your Presence (Trait) and roll them. The value of your Grit (Discipline) determines how many times you can reroll your dice.
 ### How do I know what Trait and Discipline to use?

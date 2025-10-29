@@ -38,8 +38,8 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Rules/index.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -194,6 +194,18 @@
   },
   "active": "ce356b6d9979bdb1",
   "lastOpenFiles": [
+    "site/search/search_index.json",
+    "site/search",
+    "site/Rules/Archetypes/Spectre/index.html",
+    "site/Rules/Archetypes/Scholar/index.html",
+    "site/Rules/Archetypes/Chevalier/index.html",
+    "site/Rules/Archetypes/Spectre",
+    "site/Rules/Archetypes/Scholar",
+    "site/Rules/Archetypes/index.html",
+    "site/Rules/Archetypes/Chevalier",
+    "site/Rules/Archetypes",
+    "site/Rules/Traits/index.html",
+    "site/assets/images/favicon.png",
     "docs/Rules/Archetypes/Spectre.md",
     "docs/Rules/Archetypes/Scholar.md",
     "docs/Rules/Archetypes/Chevalier.md",
@@ -202,21 +214,10 @@
     "docs/Rules/Archetypes/index.md",
     "docs/index.md",
     "docs/Rules/Dice.md",
-    "overrides/partials/comments.html",
-    "overrides/partials/New Text Document.txt",
-    "overrides/partials",
-    "overrides/New folder",
-    "overrides",
-    "New folder",
     "docs/Rules/Skills.md",
-    "site/search/search_index.json",
-    "site/search",
-    "site/Rules/Archetypes/Spectre/index.html",
-    "site/Rules/Archetypes/Inventor/index.html",
     "docs/Rules/Traits.md",
     "docs/Rules/Combat.md",
     "File test.md",
-    "site/assets/images/favicon.png",
     "Estonia-TTRPG-Docs/File test.md",
     "Welcome.md"
   ]
