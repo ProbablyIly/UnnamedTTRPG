@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/index.md",
+                "file": "docs/Rules/Archetypes/Chevalier.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Rules/index.md",
+                "file": "docs/Rules/Archetypes/Chevalier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Rules/index.md",
+                "file": "docs/Rules/Archetypes/Chevalier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Rules/index.md"
+                "file": "docs/Rules/Archetypes/Chevalier.md"
               }
             }
           },
@@ -194,10 +194,13 @@
   },
   "active": "ce356b6d9979bdb1",
   "lastOpenFiles": [
+    "docs/Rules/Archetypes/Spectre.md",
+    "docs/Rules/Archetypes/Scholar.md",
+    "docs/Rules/index.md",
+    "docs/Rules/Disciplines.md",
+    "docs/Rules/Archetypes/index.md",
     "docs/index.md",
     "docs/Rules/Dice.md",
-    "docs/Rules/Archetypes/Inventor.md",
-    "docs/Rules/Archetypes/index.md",
     "overrides/partials/comments.html",
     "overrides/partials/New Text Document.txt",
     "overrides/partials",
@@ -211,10 +214,7 @@
     "site/Rules/Archetypes/Spectre/index.html",
     "site/Rules/Archetypes/Inventor/index.html",
     "docs/Rules/Traits.md",
-    "docs/Rules/index.md",
-    "docs/Rules/Disciplines.md",
     "docs/Rules/Combat.md",
-    "docs/Rules/Archetypes/Spectre.md",
     "File test.md",
     "site/assets/images/favicon.png",
     "Estonia-TTRPG-Docs/File test.md",

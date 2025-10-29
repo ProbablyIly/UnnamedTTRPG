@@ -68,4 +68,14 @@ Sequential Skills are activated when a sequence has been achieved (such as a Str
 ### Active Skills
 Active Skills are skills which you must manually activate to function, most usually they have a limited number of uses which resets according to their condition. Most active skills have a prerequisite before they can be taken, such as specific level in a Discipline or Trait, or being in an Archetype.
 ## [[Archetypes]]
-An archetype shapes your character's playstyle and dictates your core abilities. You choose these at character creation and generally remain with them (unless agreed upon by the GM)
+An archetype shapes your character's playstyle and dictates your core abilities. You choose these at character creation and generally remain with them (unless agreed upon by the GM). You can only have one archetype at a time.
+
+Archetypes are limited per the species you choose to play, and there are 3 per species:
+### Avian Archetypes
+- [[Scholar]] - Innovate beyond the contemporarily possible, make your dreams a reality.
+- [[Spectre]] - Become one with the wind, traverse the world undetected.
+- [[Chevalier]] - Battle with great finesse, prevail gracefully.
+### Human Archetypes
+- Juggernaut - Overpower your opponents, wield sheet strength with no bounds.
+- Splicer - Push your body to its genetic limits, suffer the consequences.
+- Warlord - Lead your comrades into battle, boost morale.

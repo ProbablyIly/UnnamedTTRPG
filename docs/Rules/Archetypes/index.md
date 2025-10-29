@@ -3,7 +3,7 @@ comments: true
 ---
 An archetype shapes your character’s playstyle and dictates your core abilities; these are limited per species.
 # Avian
-## [[Inventor]]
+## [[Scholar]]
 Innovate beyond the contemporarily possible, make your dreams a reality.
 ## [[Spectre]]
 Become one with the wind, traverse the world undetected.
