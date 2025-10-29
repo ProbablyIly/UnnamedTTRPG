@@ -49,8 +49,7 @@ Rolling involves a pool of D6s (sixth sided dice) and the success is determined 
 | Straight            | Failure                           | 1, 2, 3 (or more) |
 ### How do I determine my roll?
 Each dice roll is associated with a specific Trait and Discipline, for example: Presence (Trait) and Grit (Discipline), you gather a number of dice equal to your Presence (Trait) and roll them. The value of your Grit (Discipline) determines how many times you can reroll your dice.
-
 ### How do I know what Trait and Discipline to use?
 When asked to roll by your GM, you will generally be prompted with the Trait and Discipline, but, these are negotiable! If you think your character could realistically accomplish the action using a different Trait and Discipline, provided you explain your reasoning to your GM and they agree, you may roll with those values instead.
 ## [[Skills]]
-Skills are useful and powerful abilities which different characters can posses
+Skills are useful and powerful abilities which represent your prowess and skillset. There are two types of skills Dice Skills and  Skills. Each character 
