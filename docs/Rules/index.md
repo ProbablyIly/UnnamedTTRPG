@@ -56,8 +56,12 @@ Skills are useful and powerful abilities which represent your prowess and skills
 ### Dice Skills
 Dice Skills are skills which are activated based on dice rolls, and once its trigger conditions have been fulfilled.
 
-There are four types of Dice Skills: **Archetype Skills** **Single Skills**, **Split Skills** and **Sequential Skills**.
+There are four types of Dice Skills: **Archetype Skills** **Single Skills**, **Split Skills** and **Sequential Skills**. Each skill can only be equipped into their respective type's slot.
 #### Archetype Skills
 Archetype Skills are gained through one's archetype and are always equipped, they tend to be defining gameplay concepts which change the way in which dice are interacted with according to your archetype.
 #### Single Skills
-Single Skills are activated when a single success has been achieved (by rolling )
+Single Skills are activated when a single success has been achieved (by rolling a Pair or higher). They allow you to mess with dice results and affect the outcome of your action.
+#### Split Skills
+Split Skills are activated when two split success have been achieved (by rolling a Two Pair, Full House, or higher), they generally involve 
+#### Sequential Skills
+Sequential Skills are activated when a sequence has been achieved (Such as a Straight), while not inherent (in the case a Straight is combined with another combo), most Straight rolls result in a failure, and as such, Sequential Skills are generally related to misdirection and detours. 
