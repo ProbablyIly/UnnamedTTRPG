@@ -66,4 +66,4 @@ Split Skills are activated when two split success have been achieved (by rolling
 #### Sequential Skills
 Sequential Skills are activated when a sequence has been achieved (such as a Straight), while not inherent (in the case a Straight is combined with another combo), most Straight rolls result in a failure, and as such, Sequential Skills are generally related to misdirection, detours and chaining other actions. 
 ### Active Skills
-Active Skills are skills which you must manually activate to function, most usually they have a limited number of uses which resets according to their cond
+Active Skills are skills which you must manually activate to function, most usually they have a limited number of uses which resets according to their condition. Most active skills have a prerequisite before they can be taken, such as specific level in a Discipline or Trait, or being in an Archetype.
