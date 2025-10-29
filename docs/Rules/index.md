@@ -86,6 +86,10 @@ Panache is rewarded by the GM whenever you accomplish the extraordinarily cool o
 
 Panache is stored communally (represented by tokens) and they can be spent to accomplish moves with extra flair and style. Using Panache should be generally agreed upon by your other party members.
 
-At any roll, you may use up a point of Panache to reroll!
+You also gain Panache when the number of matches rolled equals to the value rolled (i.e: rolling three 3s, or four 4s). The number of panache gained is equal to the matched number.
+
+At any roll, you may use up a point of Panache to reroll your dice or before rolling to add an additional dice!
+
+Panache alternatively may be used according to certain Skills, and to **Interject** during combat. The former is elaborated per skill. while the latter will be in the Combat section below. 
 ## Combat
-At the start of combat, initiative must be 
+At the start of combat, a starting player must be established, the GM first determines if the players or enemies start, if the players start. the player with the highest Instinct begins. 
