@@ -81,4 +81,7 @@ Archetypes are limited per the species you choose to play, and there are 3 per s
 - Juggernaut - Overpower your opponents, wield sheet strength with no bounds.
 - Splicer - Push your body to its genetic limits, suffer the consequences.
 - Warlord - Lead your comrades into battle, boost morale.
+## Panache
+Panache is gained whenever you accomplish something unique
 ## Combat
+At the start of combat, initiative must be 
