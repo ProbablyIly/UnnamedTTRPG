@@ -107,9 +107,16 @@ On your turn you can do the following:
 - Move - Move up to your specified speed, 1 metre being equal to 1 square on the grid.
 - Take an action - An action is any one event that is considered significant or major, normally one which would require rolling. If it is an attack, see the section below, if it is not, it is resolved similarly to any other roll as previously explained. 
 - Take a minor action - Minor actions are any actions which are not time intensive or require a significant level of concentration and effort, for example: taking something out of a pocket, screaming something, sheathing your sword, etc.
-### Attacking
+### Attacks
 When making an attack, you first must determine if it connects, this is done the same way as any other roll is resolved, with successes and failures working just the same.
 
 On a hit, your attack deals a wound, its severity equal to the number of matches. When a character receives a wound, its Armour value is subtracted from the wound's severity, if it results 0 or below, no wound is dealt.
 
-Wounds are primarily narrative, and can be anything you agree upon with your GM, on the condition it matches the description of your attack. For example, if you attempted to hit a character's 
+Wounds are primarily narrative, and can be anything you agree upon with your GM, on the condition it matches the description of your attack. For example, if you attempted to hit a character's shoulder, a dislocated arm would be an appropriate wound.
+
+Characters can sustain a number of wounds before death, once the sum of your wounds' severity, reaches or surpasses your wound capacity, your character is dead.
+
+Wounds make it harder for your character to act, if a wound might impair your character in making an action, subtract one dice from that roll.
+
+Wounds do not automatically heal, and must be treated in-game to have them heal, this may take time, and may require certain narrative beats.
+
