@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Archetypes/Chevalier.md",
+                "file": "docs/Rules/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Rules/Archetypes/Chevalier.md",
+                "file": "docs/Rules/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Rules/Archetypes/Chevalier.md",
+                "file": "docs/Rules/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Rules/Archetypes/Chevalier.md"
+                "file": "docs/Rules/index.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   "lastOpenFiles": [
     "docs/Rules/Archetypes/Spectre.md",
     "docs/Rules/Archetypes/Scholar.md",
+    "docs/Rules/Archetypes/Chevalier.md",
     "docs/Rules/index.md",
     "docs/Rules/Disciplines.md",
     "docs/Rules/Archetypes/index.md",
@@ -207,7 +208,6 @@
     "overrides/New folder",
     "overrides",
     "New folder",
-    "docs/Rules/Archetypes/Chevalier.md",
     "docs/Rules/Skills.md",
     "site/search/search_index.json",
     "site/search",
