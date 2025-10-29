@@ -52,16 +52,18 @@ Each dice roll is associated with a specific Trait and Discipline, for example: 
 ### How do I know what Trait and Discipline to use?
 When asked to roll by your GM, you will generally be prompted with the Trait and Discipline, but, these are negotiable! If you think your character could realistically accomplish the action using a different Trait and Discipline, provided you explain your reasoning to your GM and they agree, you may roll with those values instead.
 ## [[Skills]]
-Skills are useful and powerful abilities which represent your prowess and skillset. There are two types of skills: Dice Skills and Active Skills. Each character, according to its archetype, has a number of slots to which you can equip an appropriate skill.
+Skills are useful and powerful abilities which represent your prowess and skillset. There are Three types of skills: **Archetype Skills** **Dice Skills** and **Active Skills**. Each character, according to its archetype, has a number of slots to which you can equip an appropriate skill.
+### Archetype Skills
+Archetype Skills are gained through one's archetype and are always equipped, they tend to be defining gameplay concepts which change the way in which dice are interacted with according to your archetype.
 ### Dice Skills
 Dice Skills are skills which are activated based on dice rolls, and once its trigger conditions have been fulfilled.
 
-There are four types of Dice Skills: **Archetype Skills** **Single Skills**, **Split Skills** and **Sequential Skills**. Each skill can only be equipped into their respective type's slot.
-#### Archetype Skills
-Archetype Skills are gained through one's archetype and are always equipped, they tend to be defining gameplay concepts which change the way in which dice are interacted with according to your archetype.
+There are three types of Dice Skills:  **Single Skills**, **Split Skills** and **Sequential Skills**. Each skill can only be equipped into their respective type's slot.
 #### Single Skills
 Single Skills are activated when a single success has been achieved (by rolling a Pair or higher). They allow you to mess with dice results and affect the outcome of your action.
 #### Split Skills
 Split Skills are activated when two split success have been achieved (by rolling a Two Pair, Full House, or higher), they generally involve 
 #### Sequential Skills
-Sequential Skills are activated when a sequence has been achieved (Such as a Straight), while not inherent (in the case a Straight is combined with another combo), most Straight rolls result in a failure, and as such, Sequential Skills are generally related to misdirection and detours. 
+Sequential Skills are activated when a sequence has been achieved (such as a Straight), while not inherent (in the case a Straight is combined with another combo), most Straight rolls result in a failure, and as such, Sequential Skills are generally related to misdirection, detours and chaining other actions. 
+### Active Skills
+Active Skills are skills which you must manually activate to function, most usually they have a limited number of uses which resets according to their cond
