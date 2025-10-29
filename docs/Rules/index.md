@@ -10,9 +10,13 @@ But most importantly of all, play this game in your own way, these rules are a s
 Traits are the foundation of your character, they reflect your physical and mental capabilities. The traits are:
 
 **Physique** - Your stature, your strength.
+
 **Instinct** - Your reflexes, your senses.
+
 **Resilience** - Your endurance, your fortitude.
+
 **Ingenuity** - Your creativity, your inventiveness. 
+
 **Presence** - Your charisma, your social wit.
 
 The higher a trait, the better you are at it, the minimum a trait can go is 2.
