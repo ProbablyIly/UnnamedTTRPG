@@ -13,16 +13,16 @@ GM stuff
 
 
 
-| Section            | Approximate Pages |     |
-| ------------------ | ----------------- | --- |
-| Intro              | 6-8               |     |
-| World Overview     | 12-15             |     |
-| Character Creation | 15-20             |     |
-| Playing the game   | 15-20             |     |
-| Skills             | 20-30             |     |
-| GMs Guide          | 15-20             |     |
-| Monsters and NPCs  | 10-15             |     |
-|                    |                   |     |
+| Section            | Approximate Pages | Amount of Art                                           |
+| ------------------ | ----------------- | ------------------------------------------------------- |
+| Intro              | 6-8               | 1                                                       |
+| World Overview     | 12-15             | A few per region, major areas                           |
+| Character Creation | 15-20             | 1 per archetype?                                        |
+| Playing the game   | 15-20             | Callouts to break things up, less art                   |
+| Skills             | 20-30             | Lots of icons, probs less art                           |
+| GMs Guide          | 15-20             | Less art, lots of tables, maybe some dice illustrations |
+| Monsters and NPCs  | 10-15             | 1 per major monster                                     |
+|                    |                   |                                                         |
 Writing order
 - [ ] Playing the game
 - [ ] Character creation
