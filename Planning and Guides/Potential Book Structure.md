@@ -8,3 +8,5 @@
 
 
 Setting and mechanic vibe
+Actual rules
+GM stuff
