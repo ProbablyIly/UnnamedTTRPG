@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "482362cac3e431d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning and Guides/Potential Book Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Rules/index.md",
+                "file": "Planning and Guides/Potential Book Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Rules/index.md",
+                "file": "Planning and Guides/Potential Book Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Rules/index.md"
+                "file": "Planning and Guides/Potential Book Structure.md"
               }
             }
           },
@@ -192,8 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce356b6d9979bdb1",
+  "active": "482362cac3e431d6",
   "lastOpenFiles": [
+    "docs/Rules/index.md",
+    "Planning and Guides/Potential Book Structure.md",
+    "Planning and Guides",
     "site/search/search_index.json",
     "site/search",
     "site/Rules/Archetypes/Spectre/index.html",
@@ -203,13 +218,10 @@
     "site/Rules/Archetypes/Scholar",
     "site/Rules/Archetypes/index.html",
     "site/Rules/Archetypes/Chevalier",
-    "site/Rules/Archetypes",
-    "site/Rules/Traits/index.html",
     "site/assets/images/favicon.png",
     "docs/Rules/Archetypes/Spectre.md",
     "docs/Rules/Archetypes/Scholar.md",
     "docs/Rules/Archetypes/Chevalier.md",
-    "docs/Rules/index.md",
     "docs/Rules/Disciplines.md",
     "docs/Rules/Archetypes/index.md",
     "docs/index.md",
