@@ -10,3 +10,16 @@
 Setting and mechanic vibe
 Actual rules
 GM stuff
+
+
+
+| Section            | Approximate Pages |     |
+| ------------------ | ----------------- | --- |
+| Intro              | 6-8               |     |
+| World Overview     | 12-15             |     |
+| Character Creation | 15-20             |     |
+| Playing the game   | 15-20             |     |
+| Skills             | 20-30             |     |
+| GMs Guide          | 15-20             |     |
+| Monsters and NPCs  | 10-15             |     |
+|                    |                   |     |
