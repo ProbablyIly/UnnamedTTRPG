@@ -15,7 +15,7 @@ GM stuff
 
 | Section            | Approximate Pages | Amount of Art                                           |
 | ------------------ | ----------------- | ------------------------------------------------------- |
-| Intro              | 6-8               | 1                                                       |
+| Intro              | 6-8               | A defining piece, maybe map                             |
 | World Overview     | 12-15             | A few per region, major areas                           |
 | Character Creation | 15-20             | 1 per archetype?                                        |
 | Playing the game   | 15-20             | Callouts to break things up, less art                   |
