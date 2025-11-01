@@ -23,3 +23,11 @@ GM stuff
 | GMs Guide          | 15-20             |     |
 | Monsters and NPCs  | 10-15             |     |
 |                    |                   |     |
+Writing order
+- [ ] Playing the game
+- [ ] Character creation
+- [ ] Skills
+- [ ] World Overview
+- [ ] GMs Guide
+- [ ] Monsters and NPCs
+- [ ] Intro

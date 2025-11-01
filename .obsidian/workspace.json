@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "Planning and Guides/Potential Book Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "Planning and Guides/Potential Book Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "Planning and Guides/Potential Book Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "Planning and Guides/Potential Book Structure.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "482362cac3e431d6",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/Rules/Archetypes/index.md",
     "Planning and Guides/Potential Book Structure.md",
     "docs/Rules/index.md",
@@ -224,7 +225,6 @@
     "docs/Rules/Archetypes/Scholar.md",
     "docs/Rules/Archetypes/Chevalier.md",
     "docs/Rules/Disciplines.md",
-    "docs/index.md",
     "docs/Rules/Dice.md",
     "docs/Rules/Skills.md",
     "docs/Rules/Traits.md",
