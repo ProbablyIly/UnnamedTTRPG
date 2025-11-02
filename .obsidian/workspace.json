@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning and Guides/Potential Book Structure.md",
+                "file": "docs/Rules/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potential Book Structure"
+              "title": "index"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning and Guides/Potential Book Structure.md",
+                "file": "docs/Rules/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Potential Book Structure"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning and Guides/Potential Book Structure.md",
+                "file": "docs/Rules/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Potential Book Structure"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning and Guides/Potential Book Structure.md",
+                "file": "docs/Rules/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Potential Book Structure"
+              "title": "Outline of index"
             }
           },
           {
@@ -253,11 +253,11 @@
   },
   "active": "db86d2df723bfa8f",
   "lastOpenFiles": [
+    "Planning and Guides/Potential Book Structure.md",
     "docs/Rules/index.md",
     "docs/index.md",
     "docs/Rules/Archetypes/index.md",
     "docs/Rules/Archetypes/Scholar.md",
-    "Planning and Guides/Potential Book Structure.md",
     "Planning and Guides",
     "site/search/search_index.json",
     "site/search",
