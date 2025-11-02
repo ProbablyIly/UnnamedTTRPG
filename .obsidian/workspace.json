@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Disciplines.md",
+                "file": "docs/Rules/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disciplines"
+              "title": "index"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Rules/Disciplines.md",
+                "file": "docs/Rules/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disciplines"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Rules/Disciplines.md",
+                "file": "docs/Rules/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Disciplines"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Rules/Disciplines.md",
+                "file": "docs/Rules/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Disciplines"
+              "title": "Outline of index"
             }
           },
           {
@@ -253,13 +253,13 @@
   },
   "active": "db86d2df723bfa8f",
   "lastOpenFiles": [
+    "docs/Rules/Archetypes/index.md",
+    "docs/Rules/Disciplines.md",
     "docs/Rules/Combat.md",
     "docs/Rules/Dice.md",
-    "docs/Rules/Disciplines.md",
     "docs/Rules/index.md",
     "docs/Rules/Skills.md",
     "docs/Rules/Traits.md",
-    "docs/Rules/Archetypes/index.md",
     "Planning and Guides/Potential Book Structure.md",
     "docs/index.md",
     "docs/Rules/Archetypes/Scholar.md",
