@@ -28,6 +28,7 @@ Archetypes are limited per the species you choose to play, and there are 3 per s
 Traits are the foundation of your character, they reflect your physical and mental capabilities. The traits are:
 
 **Physique** - Your stature, your strength.
+Physique quantifies your physical stature, it is used for actions and abilities which require an exertion of force and exceptional physical manoeuvring. Characters with high Physique are physically fit and well built. It is often used for Melee combat.
 
 **Instinct** - Your reflexes, your senses.
 
@@ -36,6 +37,7 @@ Traits are the foundation of your character, they reflect your physical and ment
 **Ingenuity** - Your creativity, your inventiveness. 
 
 **Presence** - Your charisma, your social wit.
+Presence is a measure of your social aptitude, your confidence. Characters with high Presence are able to adapt to social situations, know how to speak to strike to the heart of others, and specialise in making themselves the centre of attention.
 
 The higher a trait, the better you are at it, the minimum a trait can go is 2.
 ### Choosing Traits
