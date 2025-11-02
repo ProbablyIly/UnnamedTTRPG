@@ -31,16 +31,19 @@ Traits are the foundation of your character, they reflect your physical and ment
 Physique quantifies your physical stature, it is used for actions and abilities which require an exertion of force and exceptional physical manoeuvring. Characters with high Physique are physically fit and well built. It is often used for Melee combat.
 
 **Instinct** - Your reflexes, your senses.
+Instinct is a character's ability to quickly and appropriately react to dynamic situations. Characters with high Instinct are quick thinkers, agile and tend to be the first to jump at time sensitive opportunities. Instinct is often used for Ranged combat.
 
 **Resilience** - Your endurance, your fortitude.
+Resilience reflects your character's physical capacity to endure abuse and strain and to last extraordinarily demanding situations. Chahracters with high Resilience are able to endure physical assaults and remain functional for longer than others.  
 
 **Ingenuity** - Your creativity, your inventiveness. 
+Ingenuity quantifies your inventiveness and quick thinking, characters with high Ingenuity are able to swiftly think outside the box, solve complex problems, recall details easily and reason with a high level of logic. 
 
 **Presence** - Your charisma, your social wit.
 Presence is a measure of your social aptitude, your confidence. Characters with high Presence are able to adapt to social situations, know how to speak to strike to the heart of others, and specialise in making themselves the centre of attention.
-
-The higher a trait, the better you are at it, the minimum a trait can go is 2.
 ### Choosing Traits
+Traits are represented by a numerical value, the higher it is, the better you are at it. The minimum a trait can go is 2.
+
 To determine your trait, you start with 12 points and you can choose what value to buy per trait according to the following table:
 
 | Point Cost | Trait |
