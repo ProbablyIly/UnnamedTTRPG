@@ -10,7 +10,7 @@ But most importantly of all, play this game in your own way, these rules are a s
 
 # Composition of a Character
 ## Species
-Species shape your character's culture, upbringing and origins.  
+Species shape your character's culture, upbringing and origins. You gain through them a single ability exclusive to that species, and the ability to select from a slew of Archetypes exclusive to the Species. There are only two species in this world, The Humans and The Avians. More li
 ## [[Archetypes]]
 An archetype shapes your character's playstyle and dictates your core abilities. You choose these at character creation and generally remain with them (unless agreed upon by the GM). You can only have one archetype at a time.
 
