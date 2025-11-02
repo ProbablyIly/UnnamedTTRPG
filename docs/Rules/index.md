@@ -65,16 +65,16 @@ Dice rolls are a way to resolve uncertainties and conflict, whenever an action t
 ### Resolving a roll
 Rolling involves a pool of D6s (sixth sided dice) and the success is determined by the number of matching numbers, the following table illustrates possible combinations:
 
-| Combination         | Degree of Success                 | Example           |
-| ------------------- | --------------------------------- | ----------------- |
-| No matches          | Failure                           | 1, 5, 3           |
-| Two matching dice   | Partial success                   | 2, 2, 5           |
-| Three matching dice | Minor success                     | 5, 5, 5.          |
-| Four matching dice  | Major success                     | 6, 6, 6, 6        |
-| Five matching dice  | Critical success                  | 3, 3, 3, 3, 3     |
-| Two Pair            | Two Partial Successes             | 1, 1, 4, 4        |
-| Full House          | One Minor and one Partial Success | 2, 2, 2, 3, 3     |
-| Straight            | Failure                           | 1, 2, 3 (or more) |
+| Combination     | Degree of Success                 | Example           |
+| --------------- | --------------------------------- | ----------------- |
+| No matches      | Failure                           | 1, 5, 3           |
+| Pair            | Partial success                   | 2, 2, 5           |
+| Three of a Kind | Minor success                     | 5, 5, 5.          |
+| Four of a Kind  | Major success                     | 6, 6, 6, 6        |
+| Five of a Kind  | Critical success                  | 3, 3, 3, 3, 3     |
+| Two Pair        | Two Partial Successes             | 1, 1, 4, 4        |
+| Full House      | One Minor and one Partial Success | 2, 2, 2, 3, 3     |
+| Straight        | Failure                           | 1, 2, 3 (or more) |
 
 ### How do I determine my roll?
 Each dice roll is associated with a specific Trait and Discipline, for example: Presence (Trait) and Grit (Discipline), you gather a number of dice equal to your Presence (Trait) and roll them. The value of your Grit (Discipline) determines how many times you can reroll your dice.
