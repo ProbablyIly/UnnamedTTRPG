@@ -1,10 +1,28 @@
 This article will be a very brief explanation on how the game is played, with each of its respective child articles being a granular explanation of the respective segment.
-## What is a TTRPG?
+# What is a TTRPG?
 A TTRPG, also known as a tabletop roleplaying game is a social and collaborative storytelling game, where one person, known as the Game Master (GM) leads a story, with a group of players, acting as the main cast of the story.
-### Why is this TTRPG different?
+
+Much of this text assumes familiarity and a basic understanding of TTRPGs, while it is not impossible to understand if you are entirely unfamilar with their concept, we would recommended you get a primer elsewhere prior to proceeding.
+## Why is this TTRPG different?
 This TTRPG is built to specifically accommodate our own setting while addressing many issues and nitpicks we have with TTRPGs both as players and GMs. Our primary innovation is the dice system, which you will be explained shortly.
  
 But most importantly of all, play this game in your own way, these rules are a suggestions, they are a foundation to build upon, rules are meant to be broken, and if you think something may be cooler differently, do it your way!
+
+# Composition of a Character
+## Species
+Species shape your character's culture, upbringing and origins.  
+## [[Archetypes]]
+An archetype shapes your character's playstyle and dictates your core abilities. You choose these at character creation and generally remain with them (unless agreed upon by the GM). You can only have one archetype at a time.
+
+Archetypes are limited per the species you choose to play, and there are 3 per species:
+### Avian Archetypes
+- [[Scholar]] - Innovate beyond the contemporarily possible, make your dreams a reality.
+- [[Spectre]] - Become one with the wind, traverse the world undetected.
+- [[Chevalier]] - Battle with great finesse, prevail gracefully.
+### Human Archetypes
+- Juggernaut - Overpower your opponents, wield sheet strength with no bounds.
+- Splicer - Push your body to its genetic limits, suffer the consequences.
+- Warlord - Lead your comrades into battle, boost morale.
 ## [[Traits]]
 ### What are traits?
 Traits are the foundation of your character, they reflect your physical and mental capabilities. The traits are:
@@ -73,18 +91,6 @@ Split Skills are activated when two split success have been achieved (by rolling
 Sequential Skills are activated when a sequence has been achieved (such as a Straight), while not inherent (in the case a Straight is combined with another combo), most Straight rolls result in a failure, and as such, Sequential Skills are generally related to misdirection, detours and chaining other actions. 
 ### Active Skills
 Active Skills are skills which you must manually activate to function, most usually they have a limited number of uses which resets according to their condition. Most active skills have a prerequisite before they can be taken, such as specific level in a Discipline or Trait, or being in an Archetype.
-## [[Archetypes]]
-An archetype shapes your character's playstyle and dictates your core abilities. You choose these at character creation and generally remain with them (unless agreed upon by the GM). You can only have one archetype at a time.
-
-Archetypes are limited per the species you choose to play, and there are 3 per species:
-### Avian Archetypes
-- [[Scholar]] - Innovate beyond the contemporarily possible, make your dreams a reality.
-- [[Spectre]] - Become one with the wind, traverse the world undetected.
-- [[Chevalier]] - Battle with great finesse, prevail gracefully.
-### Human Archetypes
-- Juggernaut - Overpower your opponents, wield sheet strength with no bounds.
-- Splicer - Push your body to its genetic limits, suffer the consequences.
-- Warlord - Lead your comrades into battle, boost morale.
 ## Panache
 Panache is rewarded by the GM whenever you accomplish the extraordinarily cool or act in a way that particularly makes the game more fun and exciting for everyone.
 
