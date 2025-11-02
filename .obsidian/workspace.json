@@ -67,12 +67,14 @@
             "id": "db86d2df723bfa8f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "docs/Rules/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -149,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Rules/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -167,11 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Rules/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -195,12 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/Rules/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           },
           {
@@ -250,6 +255,7 @@
   "lastOpenFiles": [
     "docs/index.md",
     "docs/Rules/Archetypes/index.md",
+    "docs/Rules/Archetypes/Scholar.md",
     "Planning and Guides/Potential Book Structure.md",
     "docs/Rules/index.md",
     "Planning and Guides",
@@ -264,7 +270,6 @@
     "site/Rules/Archetypes/Chevalier",
     "site/assets/images/favicon.png",
     "docs/Rules/Archetypes/Spectre.md",
-    "docs/Rules/Archetypes/Scholar.md",
     "docs/Rules/Archetypes/Chevalier.md",
     "docs/Rules/Disciplines.md",
     "docs/Rules/Dice.md",
