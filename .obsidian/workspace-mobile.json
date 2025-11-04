@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Skills.md",
+                "file": "docs/Rules/Archetypes/Scholar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "Scholar"
             }
           }
         ]
@@ -181,32 +181,38 @@
   },
   "active": "ca027a95c6a3e14d",
   "lastOpenFiles": [
+    "docs/Rules/Skills.md",
+    "Planning and Guides/Potential Book Structure.md",
+    "Planning and Guides",
+    "site/Rules/Archetypes/Scholar/index.html",
+    "site/Rules/Archetypes/Scholar",
+    "docs/Rules/Archetypes/Scholar.md",
+    "/site/sitemap.xml.gz",
+    "/site/sitemap.xml",
+    "/site/search/search_index.json",
+    "/site/search",
+    "/site/index.html",
+    "/site/Rules/index.html",
+    "/site/Rules/Traits/index.html",
+    "/docs/Rules/index.md",
+    "/docs/Rules/Archetypes/index.md",
+    "/docs/Rules/Archetypes/Spectre.md",
+    "/docs/Rules/Archetypes/Scholar.md",
+    "/docs/Rules/Archetypes/Chevalier.md",
+    "/Planning and Guides/Potential Book Structure.md",
     "docs/Rules/index.md",
     "docs/Rules/Traits.md",
     "docs/index.md",
     "docs/Rules/Archetypes/index.md",
     "docs/Rules/Dice.md",
-    "overrides/partials/comments.html",
-    "overrides/partials",
-    "overrides",
-    "/site/sitemap.xml.gz",
-    "/site/index.html",
-    "/site/Rules/index.html",
-    "/site/Rules/Traits/index.html",
-    "/site/Rules/Traits",
-    "/site/Rules/Skills/index.html",
-    "/site/Rules/Skills",
     "/docs/index.md",
-    "/docs/Rules/index.md",
     "/docs/Rules/Dice.md",
-    "/docs/Rules/Archetypes/index.md",
     "Getting Started.md",
     "docs/Rules/Archetypes/Chevalier.md",
     "site/assets/images/favicon.png",
     "docs/Rules/Archetypes/Inventor.md",
     "docs/Rules/Archetypes/Spectre.md",
     "docs/Rules/Disciplines.md",
-    "docs/Rules/Skills.md",
     "docs/Rules/Combat.md"
   ]
 }
