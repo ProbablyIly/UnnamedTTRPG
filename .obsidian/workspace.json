@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Archetypes/Scholar.md",
+                "file": "docs/Rules/Archetypes/Spectre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scholar"
+              "title": "Spectre"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Rules/Archetypes/Scholar.md",
+                "file": "docs/Rules/Archetypes/Spectre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scholar"
+              "title": "Backlinks for Spectre"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Rules/Archetypes/Scholar.md",
+                "file": "docs/Rules/Archetypes/Spectre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scholar"
+              "title": "Outgoing links from Spectre"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Rules/Archetypes/Scholar.md",
+                "file": "docs/Rules/Archetypes/Spectre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scholar"
+              "title": "Outline of Spectre"
             }
           },
           {
@@ -253,10 +253,11 @@
   },
   "active": "db86d2df723bfa8f",
   "lastOpenFiles": [
+    "docs/Rules/Archetypes/index.md",
+    "docs/Rules/Archetypes/Scholar.md",
     "docs/Rules/Archetypes/Spectre.md",
     "docs/Rules/Archetypes/Chevalier.md",
     "docs/Rules/index.md",
-    "docs/Rules/Archetypes/index.md",
     "docs/Rules/Disciplines.md",
     "docs/Rules/Combat.md",
     "docs/Rules/Dice.md",
@@ -264,7 +265,6 @@
     "docs/Rules/Traits.md",
     "Planning and Guides/Potential Book Structure.md",
     "docs/index.md",
-    "docs/Rules/Archetypes/Scholar.md",
     "Planning and Guides",
     "site/search/search_index.json",
     "site/search",
