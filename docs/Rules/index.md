@@ -89,9 +89,9 @@ Dice Skills are skills which are activated based on dice rolls, and once its tri
 
 There are three types of Dice Skills:  **Single Skills**, **Split Skills** and **Sequential Skills**. Each skill can only be equipped into their respective type's slot.
 #### Single Skills
-Single Skills are activated when a single success has been achieved (by rolling a Pair or higher). They allow you to mess with dice results and affect the outcome of your action.
+Single Skills are activated when at least single success has been achieved (by rolling a Pair or higher). They allow you to mess with dice results and affect the outcome of your action.
 #### Split Skills
-Split Skills are activated when two split success have been achieved (by rolling a Two Pair, Full House, or higher), they generally involve 
+Split Skills are activated when two split success have been achieved (by rolling a Two Pair, Full House, or higher), they generally involve modifying the dice according to the two different successes.
 #### Sequential Skills
 Sequential Skills are activated when a sequence has been achieved (such as a Straight), while not inherent (in the case a Straight is combined with another combo), most Straight rolls result in a failure, and as such, Sequential Skills are generally related to misdirection, detours and chaining other actions. 
 ### Active Skills
