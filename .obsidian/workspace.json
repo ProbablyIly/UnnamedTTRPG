@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Rules/Archetypes/Spectre.md",
+                "file": "docs/Rules/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spectre"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Rules/Archetypes/Spectre.md",
+                "file": "docs/Rules/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spectre"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Rules/Archetypes/Spectre.md",
+                "file": "docs/Rules/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spectre"
+              "title": "Outline of index"
             }
           },
           {
@@ -251,11 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db86d2df723bfa8f",
+  "active": "ce356b6d9979bdb1",
   "lastOpenFiles": [
+    "docs/Rules/Archetypes/Spectre.md",
     "docs/Rules/Archetypes/index.md",
     "docs/Rules/Archetypes/Scholar.md",
-    "docs/Rules/Archetypes/Spectre.md",
     "docs/Rules/Archetypes/Chevalier.md",
     "docs/Rules/index.md",
     "docs/Rules/Disciplines.md",
