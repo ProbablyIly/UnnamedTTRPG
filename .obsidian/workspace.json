@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Advancements.md",
+                "file": "Planning and Guides/Inspirations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advancements"
+              "title": "Inspirations"
             }
           },
           {
@@ -265,10 +265,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4a2328e5c42902a",
+  "active": "af145ba8c86b80b7",
   "lastOpenFiles": [
-    "docs/Rules/Disciplines.md",
     "docs/Rules/Advancements.md",
+    "Planning and Guides/Inspirations.md",
+    "docs/Rules/Disciplines.md",
     "docs/Rules/Dice.md",
     "docs/Rules/Skills.md",
     "docs/Rules/index.md",
