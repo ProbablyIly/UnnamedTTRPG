@@ -1,17 +1,27 @@
 ### Example Skill Systems
 #### Apotheosis
-- Academia
+- Encyclopaedia
 - Nature
+- Science
 - Drugs
+- Scavenge
+- Splicing
 - Motorics
 - Endurance
 - Muscles
 - Armaments
-- Martial
+- Weaponry
+- Brawl
 - Visualisation
+- Gut
 - Cool
 - Grit
+- Pilot
 - Mechanics
+- Interfacing
+- Techware
+- Engineering
+- Electroacuity
 
 #### Genesys
 - Charm
@@ -44,4 +54,6 @@
 - Skullduggery
 - Stealth
 - Streetwise
+- Survival
+- Vigiliance
 - 
