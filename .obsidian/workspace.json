@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning and Guides/Inspirations.md",
+                "file": "docs/Rules/Advancements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inspirations"
+              "title": "Advancements"
             }
           },
           {
@@ -267,11 +267,11 @@
   },
   "active": "af145ba8c86b80b7",
   "lastOpenFiles": [
-    "docs/Rules/Advancements.md",
+    "docs/Rules/Skills.md",
     "Planning and Guides/Inspirations.md",
+    "docs/Rules/Advancements.md",
     "docs/Rules/Disciplines.md",
     "docs/Rules/Dice.md",
-    "docs/Rules/Skills.md",
     "docs/Rules/index.md",
     "Planning and Guides/Potential Book Structure.md",
     "docs/Rules/Archetypes/Chevalier.md",
