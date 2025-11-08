@@ -1,3 +1,6 @@
+In an endless pursuit of knowledge, Scholars tend to be logical and goal oriented. Many Scholars dedicate their lives to academia, fine arts, engineering and other intellectually-driven crafts.
+
+Scholars are innovators, their cleverness and ambition often surpassing contemporary 
 ## Starting Characteristics
 Armour: 0
 Wound Capacity: 8
