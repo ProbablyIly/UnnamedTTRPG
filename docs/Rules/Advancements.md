@@ -1,0 +1,1 @@
+As the story progresses, your character will develop both narratively and mechanically. The former is the responsibility of you as a player, and your GM. The latter is handled by the XP system.
