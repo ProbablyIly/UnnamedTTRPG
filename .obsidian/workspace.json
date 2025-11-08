@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Archetypes/Spectre.md",
+                "file": "docs/Rules/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spectre"
+              "title": "index"
             }
           },
           {
@@ -253,11 +253,11 @@
   },
   "active": "ce356b6d9979bdb1",
   "lastOpenFiles": [
-    "docs/Rules/Archetypes/Scholar.md",
+    "docs/Rules/Archetypes/Chevalier.md",
     "docs/Rules/Archetypes/Spectre.md",
+    "docs/Rules/Archetypes/Scholar.md",
     "docs/Rules/index.md",
     "docs/Rules/Archetypes/index.md",
-    "docs/Rules/Archetypes/Chevalier.md",
     "docs/Rules/Disciplines.md",
     "docs/Rules/Combat.md",
     "docs/Rules/Dice.md",
