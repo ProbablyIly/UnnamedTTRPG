@@ -1,18 +1,47 @@
-|               |
-| ------------- |
-| Academia      |
-| Nature        |
-| Drugs         |
-|               |
-| Motorics      |
-| Endurance     |
-| Muscles       |
-| Armaments     |
-| Martial       |
-|               |
-| Visualisation |
-| Cool          |
-| Grit          |
-|               |
-| Mechanics     |
-|               |
+### Example Skill Systems
+#### Apotheosis
+- Academia
+- Nature
+- Drugs
+- Motorics
+- Endurance
+- Muscles
+- Armaments
+- Martial
+- Visualisation
+- Cool
+- Grit
+- Mechanics
+
+#### Genesys
+- Charm
+- Coercion
+- Deception
+- Leadership
+- Negotiation
+- Science
+- Travel
+- Forbidden
+- Brawl
+- Gunnery
+- Melee
+- Ranged - Energy
+- Ranged - Projectile
+- Athletics
+- Computers
+- Cool
+- Coordination
+- Discipline
+- Driving
+- Mechanics
+- Medicine
+- Navigation
+- Operating
+- Perception
+- Piloting
+- Resilience
+- Riding
+- Skullduggery
+- Stealth
+- Streetwise
+- 
