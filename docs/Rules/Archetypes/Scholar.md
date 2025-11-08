@@ -1,6 +1,6 @@
 In an endless pursuit of knowledge, Scholars tend to be logical and goal oriented. Many Scholars dedicate their lives to academia, fine arts, engineering and other intellectually-driven crafts.
 
-Scholars are innovators, their cleverness and ambition often surpassing contemporary 
+Scholars are innovators, their cleverness and ambition often surpassing contemporary technologies and social norms. They are daring and willing to push beyond the unknown to discover new depths.
 ## Starting Characteristics
 Armour: 0
 Wound Capacity: 8
