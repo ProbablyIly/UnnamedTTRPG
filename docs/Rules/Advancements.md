@@ -16,4 +16,8 @@ Many skills can be bought using XP, its price often listed on it. Once bought, a
 #### Confrontation
 Overcoming fear, admitting truths, facing failures
 #### Connection
-Forming bonds, building relationships, 
+Forming bonds, building relationships, forgiving others
+#### Ambition
+Stand for your beliefs, take risks, 
+#### Transformation
+Embrace change, let go of old beliefs, accept a new perspective
