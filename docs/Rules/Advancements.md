@@ -13,11 +13,11 @@ Many skills can be bought using XP, its price often listed on it. Once bought, a
 
 ### Skill Themes
 
-#### Confrontation
+#### Confrontation (Red)
 Overcoming fear, admitting truths, facing failures
-#### Connection
+#### Connection (Blue)
 Forming bonds, building relationships, forgiving others
-#### Ambition
+#### Ambition (Purple)
 Stand for your beliefs, take risks, push yourself to new heights
-#### Transformation
+#### Transformation (Green)
 Embrace change, let go of old beliefs, accept a new perspective
