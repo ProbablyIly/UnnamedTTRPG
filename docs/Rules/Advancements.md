@@ -7,11 +7,12 @@ Story Beats are defined by you alongside the GM, generally at the start or early
 Your Drives are your character's motivation and what keeps them going, you should try to define a Primary Drive, and a Secondary Drive. Make sure to communicate these with your GM.
 
 Drives are used to reward Panache, whenever your character acts in accordance with their Drive and values, but be sure to not bug your GM about these, they will reward Panache as they see fit.
-
 ## Skills
 Many skills can be bought using XP, its price often listed on it. Once bought, a skill remains Dormant, until its unlock requirements have been met, at which point it becomes Awakened and available to use.
 
-A Dormant skill must be slotted i
+A Dormant skill must be slotted into an equivalent and available slot, and once Awakened it frees up that slot. You can only have as many Dormant skills at any given moment as you have matching slots.
+
+Each skill (and slot) is associated with a Theme which defines its narrative progression, different Archetypes have differing amounts of slots, and different ease of acquiring certain themes.
 ### Skill Themes
 
 #### Confrontation (Red)
