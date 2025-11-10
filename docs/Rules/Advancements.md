@@ -2,6 +2,6 @@ As the story progresses, your character will develop both narratively and mechan
 
 XP is given out by the GM to the entire party at the end of each session, the amount is up to the GMs discretion and is usually decided by narrative progression. XP is a currency, which can be used to upgrade and develop your character mechanically.
 ## Story Beats
-Character Beats are defined 
-
+Story Beats are defined by you alongside the GM, generally at the start or early on in the game. They should be goals and points of progression which you would like your character to achieve, detailed enough to be meaningful, yet vague enough that you could achieve them even if the narrative doesn't pan out exactly as expected. Once your Story Beat has been achieved, gain 50 XP, and define with your GM the next story beat.
 ## Drives
+Your Drives are your character's motivation and what keeps them going, you should try to define a Primary Drive, and a Secondary Drive. Make sure to communicate these with your GM.
