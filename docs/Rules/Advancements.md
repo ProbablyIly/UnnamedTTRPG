@@ -11,6 +11,7 @@ Drives are used to reward Panache, whenever your character acts in accordance wi
 ## Skills
 Many skills can be bought using XP, its price often listed on it. Once bought, a skill remains Dormant, until its unlock requirements have been met, at which point it becomes Awakened and available to use.
 
+A Dormant skill must be slotted i
 ### Skill Themes
 
 #### Confrontation (Red)
