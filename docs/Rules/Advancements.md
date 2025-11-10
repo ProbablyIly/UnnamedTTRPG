@@ -18,6 +18,6 @@ Overcoming fear, admitting truths, facing failures
 #### Connection
 Forming bonds, building relationships, forgiving others
 #### Ambition
-Stand for your beliefs, take risks, 
+Stand for your beliefs, take risks, push yourself to new heights
 #### Transformation
 Embrace change, let go of old beliefs, accept a new perspective
