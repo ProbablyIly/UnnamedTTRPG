@@ -5,3 +5,6 @@ XP is given out by the GM to the entire party at the end of each session, the am
 Story Beats are defined by you alongside the GM, generally at the start or early on in the game. They should be goals and points of progression which you would like your character to achieve, detailed enough to be meaningful, yet vague enough that you could achieve them even if the narrative doesn't pan out exactly as expected. Once your Story Beat has been achieved, gain 50 XP, and define with your GM the next story beat.
 ## Drives
 Your Drives are your character's motivation and what keeps them going, you should try to define a Primary Drive, and a Secondary Drive. Make sure to communicate these with your GM.
+
+Drives are used to reward Panache, whenever your character acts in accordance with their Drive and values, but be sure to not bug your GM about these, they will reward Panache as they see fit.
+
