@@ -1,3 +1,11 @@
+## My Tentative List of Disciplines
+### Intellectual
+- Academia
+- Nature
+- Medicine
+- 
+### Physical
+### Sensory
 ### Example Skill Systems
 #### Apotheosis
 - Encyclopaedia
