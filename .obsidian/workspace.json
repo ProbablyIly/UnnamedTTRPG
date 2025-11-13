@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2796b8",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,7 +266,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af145ba8c86b80b7",
+  "active": "4b2132b9855d3907",
   "lastOpenFiles": [
     "docs/Rules/Disciplines.md",
     "docs/Rules/Advancements.md",

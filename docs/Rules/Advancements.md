@@ -18,10 +18,14 @@ Each skill (and slot) is associated with a Theme which defines its narrative pro
 ### Skill Themes
 
 #### Confrontation (Red)
+#b82746
 Overcoming fear, admitting truths, facing failures
 #### Connection (Blue)
+#2796b8
 Forming bonds, building relationships, forgiving others
 #### Ambition (Purple)
+#b92ed9
 Stand for your beliefs, take risks, push yourself to new heights
 #### Transformation (Green)
+#32a852
 Embrace change, let go of old beliefs, accept a new perspective
