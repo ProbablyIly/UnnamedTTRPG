@@ -1,21 +1,21 @@
 ## My Tentative List of Disciplines
 ### Intellectual
-- Academia
-- Medicine
-- Mechanics
+- Academia - Access the drawers of your mind, retrieve knowledge from its deepest crevices.
+- Mechanics - Understand the physical compos
+- Medicine - Treat the body, compensate for its weaknesses.
 ### Physical
-- Endurance
-- Armaments
-- Brawl
-- Athletics
+- Armaments - Understand firearms, shoot sharp.
+- Athletics - Be in tune with your body, use your physique.
+- Brawl - Fight with your body, never be disarmed.
+- Endurance - Endure the toughest of physical pain, stay conscious.
 ### Sensory
-- Visualisation
-- Motorics
 - Coordination
+- Motorics - Keep your hands steady, have microscopic precision.
+- Visualisation - Piece in data from your senses, build accurate mental maps.
 ### Social
-- Cool
-- Grit
 - Coercion
+- Cool - Keep cool, stay composed in stressful situations.
+- Grit - Keep your mental integrity in check.
 ### Example Skill Systems
 #### Apotheosis
 - Encyclopaedia
