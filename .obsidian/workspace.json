@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Disciplines.md",
+                "file": "docs/Rules/Traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disciplines"
+              "title": "Traits"
             }
           },
           {
@@ -267,8 +267,8 @@
   },
   "active": "af145ba8c86b80b7",
   "lastOpenFiles": [
-    "docs/Rules/Advancements.md",
     "docs/Rules/Disciplines.md",
+    "docs/Rules/Advancements.md",
     "docs/Rules/Skills.md",
     "docs/Rules/index.md",
     "docs/index.md",
