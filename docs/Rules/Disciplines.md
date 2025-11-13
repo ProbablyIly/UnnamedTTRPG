@@ -1,11 +1,21 @@
 ## My Tentative List of Disciplines
 ### Intellectual
 - Academia
-- Nature
 - Medicine
-- 
+- Mechanics
 ### Physical
+- Endurance
+- Armaments
+- Brawl
+- Athletics
 ### Sensory
+- Visualisation
+- Motorics
+- Coordination
+### Social
+- Cool
+- Grit
+- Coercion
 ### Example Skill Systems
 #### Apotheosis
 - Encyclopaedia
