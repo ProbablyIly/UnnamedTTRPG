@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Rules/Traits.md",
+                "file": "docs/Rules/Disciplines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traits"
+              "title": "Disciplines"
             }
           },
           {
@@ -267,6 +267,7 @@
   },
   "active": "af145ba8c86b80b7",
   "lastOpenFiles": [
+    "docs/Rules/Traits.md",
     "docs/Rules/Disciplines.md",
     "docs/Rules/Advancements.md",
     "docs/Rules/Skills.md",
@@ -280,7 +281,6 @@
     "docs/Rules/Archetypes/Spectre.md",
     "docs/Rules/Archetypes/Scholar.md",
     "docs/Rules/Combat.md",
-    "docs/Rules/Traits.md",
     "Planning and Guides",
     "site/search/search_index.json",
     "site/search",
