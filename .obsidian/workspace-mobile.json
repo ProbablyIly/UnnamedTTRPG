@@ -181,6 +181,18 @@
   },
   "active": "ca027a95c6a3e14d",
   "lastOpenFiles": [
+    "/docs/Rules/index.md",
+    "/docs/Rules/Disciplines.md",
+    "/docs/Rules/Archetypes/Spectre.md",
+    "/docs/Rules/Archetypes/Scholar.md",
+    "/docs/Rules/Archetypes",
+    "/docs/Rules/Advancements.md",
+    "docs/Rules/Advancements.md",
+    "/docs/Rules",
+    "/docs",
+    "/Planning and Guides/Inspirations.md",
+    "Planning and Guides/Inspirations.md",
+    "/Planning and Guides",
     "docs/Rules/Skills.md",
     "Planning and Guides/Potential Book Structure.md",
     "Planning and Guides",
@@ -190,14 +202,7 @@
     "/site/sitemap.xml.gz",
     "/site/sitemap.xml",
     "/site/search/search_index.json",
-    "/site/search",
-    "/site/index.html",
-    "/site/Rules/index.html",
-    "/site/Rules/Traits/index.html",
-    "/docs/Rules/index.md",
     "/docs/Rules/Archetypes/index.md",
-    "/docs/Rules/Archetypes/Spectre.md",
-    "/docs/Rules/Archetypes/Scholar.md",
     "/docs/Rules/Archetypes/Chevalier.md",
     "/Planning and Guides/Potential Book Structure.md",
     "docs/Rules/index.md",
@@ -212,7 +217,6 @@
     "site/assets/images/favicon.png",
     "docs/Rules/Archetypes/Inventor.md",
     "docs/Rules/Archetypes/Spectre.md",
-    "docs/Rules/Disciplines.md",
-    "docs/Rules/Combat.md"
+    "docs/Rules/Disciplines.md"
   ]
 }
