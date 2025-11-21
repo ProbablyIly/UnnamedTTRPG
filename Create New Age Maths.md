@@ -1,3 +1,6 @@
+## The Electromagnetic Constant
+The electromagnetic constant is the ratio of 
+
 ## Electromagnetic Generator RPM to Electricity Formula
 $$J=RPM \times m \times \eta$$
 Where:
