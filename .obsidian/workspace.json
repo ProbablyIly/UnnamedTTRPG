@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "205e0c03243ccf1c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "482362cac3e431d6",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -265,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af145ba8c86b80b7",
+  "active": "205e0c03243ccf1c",
   "lastOpenFiles": [
     "docs/Rules/Traits.md",
     "docs/Rules/Disciplines.md",
